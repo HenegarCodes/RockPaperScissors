@@ -36,6 +36,7 @@ Use the deployed link to use the website or download the code form Github.
 
 ## Usage
 
+![RPS image](https://github.com/HenegarCodes/RockPaperScissors/assets/78831747/67ced97a-620c-4ccf-842d-ab1e169b4c70) 
 
 
 ## Credits
