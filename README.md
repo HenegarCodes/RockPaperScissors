@@ -33,6 +33,7 @@ The computer's selection must be random to ensure a fair game.
 ## Installation
 
 Use the deployed link to use the website or download the code form Github.
+https://henegarcodes.github.io/RockPaperScissors/ 
 
 ## Usage
 
