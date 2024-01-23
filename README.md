@@ -35,7 +35,7 @@ The computer's selection must be random to ensure a fair game.
 Use the deployed link to use the website or download the code form Github.
 
 ## Usage
-
+https://henegarcodes.github.io/RockPaperScissors/ 
 
 
 ## Credits
